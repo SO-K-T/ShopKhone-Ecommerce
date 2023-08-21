@@ -1,11 +1,11 @@
-#### Shop Khone
+## Shop Khone
 
 هدف این پروژه طراحی یک سایت تجاری است. اندازه این پروژه متوسط می باشد.
 
-## تکنولوژی های استفاده شده
+## تکنولوژی های استفاده شده :
 
-# Frontend :
-
+# Frontend :  
+ 																		
 - React v6+
   
 - Redux & React-Redux Package
@@ -18,7 +18,7 @@
 
 
 
-+ Backend :
+# Backend :
 
 - Django
  
