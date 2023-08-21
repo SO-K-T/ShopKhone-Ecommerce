@@ -41,7 +41,7 @@
 
 قسمت Backend :
 
- 1- Cd ShopKhone-Git (شده ShopKhone-Ecommerce - Git وارد پوشه )
+ 1- Cd ShopKhone (شده ShopKhone-Ecommerce - Git وارد پوشه )
  
  2- virtualenv myenv ( ساخته myenv یک محیط مجازی به اسم)
  
