@@ -11,6 +11,10 @@
 - Bootstrap
 - FontAwsome
 
+
+
+
+
 + Backend :
 
 - Django
@@ -19,6 +23,9 @@
 - Pillow
 - virtualenv
 - ...
+
+
+
  
   ## نحوه راه اندازی :
 
@@ -32,7 +39,10 @@
  4- pip install -r RunTimeRequirements.txt (پکیج های و کتابخانه های موجود در فایل را نصب کرده)
  5- python manage.py runserver (را استارت کرده backend فایل)
 
+
 قسمت Frontend :
+
+
 1- Cd Frontend (شده Frontend وارد پوشه )
 2- npm install --legacy-peer-deps (پکیج های و کتابخانه های موجود در فایل را نصب کرده)
 3- npm start (را استارت کرده frontend فایل)
