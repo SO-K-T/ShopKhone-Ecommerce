@@ -25,6 +25,7 @@
  ابتدا فایل زیپ را Clone و Extract کرده  => 
 
 قسمت Backend :
+
  1- Cd ShopKhone-Ecommerce - Git (شده ShopKhone-Ecommerce - Git وارد پوشه )
  2- virtualenv myenv ( ساخته myenv یک محیط مجازی به اسم)
  3- myenv\scripts\activate (محیط مجازی را فعال کرده)
