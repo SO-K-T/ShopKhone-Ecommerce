@@ -37,11 +37,11 @@
  
 ## نحوه راه اندازی :
 
- ابتدا فایل زیپ ShopKhone-Ecommerce - Git را Clone یا Extract کرده  => 
+ ابتدا فایل زیپ  را Clone یا Extract کرده  => 
 
 قسمت Backend :
 
- 1- Cd ShopKhone (شده ShopKhone-Ecommerce - Git وارد پوشه )
+ 1- Cd ShopKhone (شده ShopKhone-Repo وارد پوشه )
  
  2- virtualenv myenv ( ساخته myenv یک محیط مجازی به اسم)
  
