@@ -41,7 +41,7 @@
 
 قسمت Backend :
 
- 1- Cd ShopKhone (شده ShopKhone-Repo وارد پوشه )
+ 1- Cd ShopKhone-Repo (شده ShopKhone-Repo وارد پوشه )
  
  2- virtualenv myenv ( ساخته myenv یک محیط مجازی به اسم)
  
