@@ -37,7 +37,7 @@
  
 ## نحوه راه اندازی :
 
- ابتدا فایل زیپ را Clone و Extract کرده  => 
+ ابتدا فایل زیپ ShopKhone-Ecommerce - Git را Clone یا Extract کرده  => 
 
 قسمت Backend :
 
@@ -47,7 +47,7 @@
  
  3- myenv\scripts\activate (محیط مجازی را فعال کرده)
  
- 4- pip install -r RunTimeRequirements.txt (پکیج های و کتابخانه های موجود در فایل را نصب کرده)
+ 4- pip install -r pipPackages.txt (پکیج های و کتابخانه های موجود در فایل را نصب کرده)
  
  5- python manage.py runserver (را استارت کرده backend فایل)
 
